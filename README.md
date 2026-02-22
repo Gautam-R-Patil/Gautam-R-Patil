@@ -1,28 +1,36 @@
-<h1 align="center">Hi there! 👋 I'm Gautam Patil</h1>
-<h3 align="center">CS Engineering Student | Deep Tech Innovator | Founder @ Veltrix</h3>
+<h1 align="left">Hi there! 👋 I'm Gautam Patil</h1>
+<h3 align="left">CS Engineering Student | Deep Tech Innovator | Founder @ Veltrix</h3>
 
 <br/>
 
 ## 😁 About Me:
 
-🔧 **I'm currently working on**
-Founding **Veltrix** (preventing AI model theft via hardware-energy fingerprinting) and building out deep-tech architecture for startups like **Synaptek** (Adaptive ICU AI), **Watson** (Neuro-Symbolic Physics Engine), and **Axon** (Drone Photogrammetry). 
+I am a Computer Science Engineering student and deep-tech developer with a lifelong obsession for building complex systems from first principles. My journey started with physical hardware—building functional cardboard prototypes, woodworking, and electronics—and has aggressively scaled into architecting advanced AI, multi-agent systems, and cybersecurity platforms. I thrive on taking ambitious, highly technical ideas from 0 to 1.
 
-🤝 **I'm looking to collaborate on**
-0-to-1 deep tech startups, multi-agent LLM systems, computer vision infrastructure, and freelance full-stack development projects.
+🎓 **Academics & Early Wins**
+* **JEE Advanced:** Achieved an All India Rank of 8303.
+* **JEE Mains:** Scored in the 96.15 Percentile.
+* **Early Innovation:** Built a hardware Text-to-Braille converter in 8th grade using ASCII and 6 solenoids, winning a ₹10,000 grant from the government's Inspire Awards. 
+* **School & Beyond:** 89% in 10th grade, 82% in 12th grade, IELTS 8+, and led my school and university debate clubs. State-level U16 Badminton player.
 
-🌱 **I'm currently learning**
-Advanced C++ for competitive programming, time-series deep learning (LSTMs/Transformers), and real-time multimodal data fusion.
+🚀 **Experience & Freelance**
+* Gained hands-on industry experience shipping production code as a Freelance Intern at **Skycraft Aeronautics** and **Scaler AI Labs**.
 
-💬 **Ask me about**
-Algorithm design, 2D-to-3D kinematics, hardware-level AI security, or how to transition from building cardboard robots to complex AI software.
+🔧 **What I'm Currently Building (Startups & Deep Tech)**
+* **Veltrix (Founder):** An AI cybersecurity startup focused on preventing AI model theft by fingerprinting a model's hardware energy signature.
+* [cite_start]**Synaptek:** Adaptive ICU Early Warning Intelligence[cite: 12]. [cite_start]Built for the AWS AI for Bharat Hackathon [cite: 9][cite_start], this time-series deep learning model predicts patient deterioration 15-20 minutes before a threshold breach[cite: 13, 146].
+* **Watson:** A Neuro-Symbolic Forensic Engine that turns 2D dashcam/CCTV video into precise, physics-grounded 3D accident reconstructions.
+* **Axon:** A drone mapping platform leveraging photogrammetry and autonomous computer vision to generate 3D digital twins for structural anomaly detection.
+* **Viber AI:** A fully autonomous, multi-agent LLM platform that manages the entire software lifecycle, generating complete web applications from simple voice or text prompts.
+* **AgriSight AI (Agro X):** An all-in-one ag-tech assistant fusing computer vision, satellite data, and multilingual voice AI to provide holistic crop diagnostics.
 
-⚡ **Fun fact**
-I built a hardware Text-to-Braille converter in 8th grade that won a 10k INR government Inspire Award, and I'm also a former U16 state-level badminton player. 
+🤖 **Hardware Origins (Atal Lab Team)**
+* Designed and built a **Mars Rover prototype** with bionic arms, a **Firefighter’s Thermal Mask**, **Sign Language to Text Gloves**, and a functional **Homemade Hoverboard**.
 
 <br/>
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-patil-94b6a6275/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/_gautamrpatil) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gautamrpatil)
@@ -38,11 +46,13 @@ I built a hardware Text-to-Braille converter in 8th grade that won a 10k INR gov
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,10 +60,23 @@ I built a hardware Text-to-Braille converter in 8th grade that won a 10k INR gov
 
 <br/>
 
+## 🏆 Top Contributed Repos
+
+<p align="left">
+  <a href="https://github.com/Gautam-R-Patil/Viber-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Viber-AI&theme=tokyonight&hide_border=true" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/Gautam-R-Patil/Veltrix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Veltrix&theme=tokyonight&hide_border=true" alt="Repo 2" />
+  </a>
+</p>
+
+<br/>
+
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-R-Patil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -61,7 +84,5 @@ I built a hardware Text-to-Braille converter in 8th grade that won a 10k INR gov
 
 ## ✍️ Random Dev Quote
 
-> *"What I cannot create, I do not understand."*
-> <div align="right">— Richard Feynman</div>
-
-<br/>
+> *"The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known."*
+> <div align="right">— Harlan Mills</div>
