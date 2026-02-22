@@ -16,6 +16,12 @@ I am a Computer Science Engineering student and deep-tech developer with a lifel
 🚀 **Experience & Freelance**
 * Gained hands-on industry experience shipping production code as a Freelance Intern at **Skycraft Aeronautics** and **Scaler AI Labs**.
 
+🤝 **I’m looking to collaborate on**
+0-to-1 deep tech startups, multi-agent LLM architectures (like Viber AI), neuro-symbolic computer vision, and high-impact freelance engineering projects.
+
+👐 **I’m looking for help with**
+Optimizing real-time multimodal data fusion for healthcare AI, scaling dense 3D photogrammetry rendering pipelines, and securing hardware-energy fingerprinting infrastructure for Veltrix.
+
 🔧 **What I'm Currently Building (Startups & Deep Tech)**
 * **Veltrix (Founder):** An AI cybersecurity startup focused on preventing AI model theft by fingerprinting a model's hardware energy signature.
 * **Synaptek:** Adaptive ICU Early Warning Intelligence. Built for the AWS AI for Bharat Hackathon, this time-series deep learning model predicts patient deterioration 15-20 minutes before a threshold breach.
@@ -60,25 +66,16 @@ I am a Computer Science Engineering student and deep-tech developer with a lifel
 
 ## 🏆 Top Contributed Repos
 
-<p align="left">
-  <a href="https://github.com/Gautam-R-Patil/Viber-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Viber-AI&theme=tokyonight&hide_border=true" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/Gautam-R-Patil/Veltrix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Veltrix&theme=tokyonight&hide_border=true" alt="Repo 2" />
-  </a>
-</p>
+[![Viber AI](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Viber-AI&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/Viber-AI)
+[![Veltrix](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Veltrix&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/Veltrix)
 
 <br/>
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-R-Patil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&theme=tokyonight&v=2)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-R-Patil&layout=compact&theme=tokyonight&v=2)
 
 ## ✍️ Random Dev Quote
 
