@@ -79,5 +79,9 @@ Optimizing real-time multimodal data fusion for healthcare AI, scaling dense 3D 
 
 ## ✍️ Random Dev Quote
 
-> *"The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known."*
-> <div align="right">— Harlan Mills</div>
+> *"What I cannot create, I do not understand."*
+> <div align="right">— Richard Feynman</div>
+
+
+
+---------------------------------------------------------
