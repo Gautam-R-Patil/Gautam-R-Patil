@@ -1,46 +1,67 @@
-# Hi there! 👋
+<h1 align="center">Hi there! 👋 I'm Gautam Patil</h1>
+<h3 align="center">CS Engineering Student | Deep Tech Innovator | Founder @ Veltrix</h3>
 
-I'm an innovator from Bangalore and full-stack developer with a lifelong passion for building things—from functional cardboard models and hardware robotics to full-scale AI platforms.
+<br/>
 
----
+## 😁 About Me:
 
-### 🚀 What I'm Currently Building
+🔧 **I'm currently working on**
+Founding **Veltrix** (preventing AI model theft via hardware-energy fingerprinting) and building out deep-tech architecture for startups like **Synaptek** (Adaptive ICU AI), **Watson** (Neuro-Symbolic Physics Engine), and **Axon** (Drone Photogrammetry). 
 
-I'm currently focused on the fintech space, developing a **financial portfolio manager platform** designed to algorithmically manage assets and achieve stable 10% growth.
+🤝 **I'm looking to collaborate on**
+0-to-1 deep tech startups, multi-agent LLM systems, computer vision infrastructure, and freelance full-stack development projects.
 
----
+🌱 **I'm currently learning**
+Advanced C++ for competitive programming, time-series deep learning (LSTMs/Transformers), and real-time multimodal data fusion.
 
-### 🛠️ My Journey: From Hardware to Software
+💬 **Ask me about**
+Algorithm design, 2D-to-3D kinematics, hardware-level AI security, or how to transition from building cardboard robots to complex AI software.
 
-My passion for creating started young and has evolved through different mediums. I believe in turning ideas into tangible, working products.
+⚡ **Fun fact**
+I built a hardware Text-to-Braille converter in 8th grade that won a 10k INR government Inspire Award, and I'm also a former U16 state-level badminton player. 
 
-* **The Spark (Childhood):** Started with **Lego**, moved to intricate paper crafts, and then to building functional **cardboard guns** that could actually shoot.
-* **The Maker (Early Teens):** Taught myself woodworking and then dove into **electronics**.
-* **The Innovator (High School):** Shifted to complex hardware, robotics, and software, which became my core focus.
-* **Today:** My focus is on **Software Engineering, AI/ML, and Fintech** to solve complex problems at scale.
+<br/>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-patil-94b6a6275/) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/_gautamrpatil) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gautamrpatil)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautampatiltube2006@gmail.com)
 
-### 🤖 AI & Software Projects
+<br/>
 
-* **Viber AI:** An AI platform that generates full-stack code from text or voice-based user ideas.
-* **Agrox:** A comprehensive agricultural platform using satellite and location data. It can diagnose crop issues from an image and provides a call-in system for farmers to get real-time advice.
-* **Superhot Game Replica:** A functional game clone of the popular title *Superhot*.
+## 💻 Tech Stack:
 
----
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 💡 Hardware, Robotics & Early Projects
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-* **Text-to-Braille Converter (🏆 Inspire Award Winner):** My first major project in 8th grade. This device converted text to Braille in real-time using ASCII and 6 solenoids. It received a **10,000 INR grant** from the government's Inspire Awards.
-* **Mars Rover (Atal Lab Team):** As a core member of my school's Atal Lab team, we designed and built a Mars rover prototype complete with bionic arms and sample collection features.
-* **Firefighter's Thermal Mask (Atal Lab Team):** We developed a mask integrated with a thermal imagery camera to help firefighters see through dense smoke.
-* **Sign Language to Text Gloves (Atal Lab Team):** A glove-based system using motion detectors to translate sign language into text, breaking communication barriers.
-* **Homemade Hoverboard (Atal Lab Team):** A simple, functional hoverboard prototype.
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+<br/>
 
-### 💻 Core Skills & Interests
+## 📊 GitHub Stats:
 
-* **Competitive Programming:** Actively solving complex problems and honing algorithms, primarily in **C++,C# & Python**.
-* **Hackathons:** Regular participant and innovator at events like the KYVP INSPIRE Awards, Smart India Hackathon (SIH) and others....
-* **New Tech:** Enthusiastic about exploring and implementing new technologies to build next-generation projects.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-R-Patil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<br/>
+
+## ✍️ Random Dev Quote
+
+> *"What I cannot create, I do not understand."*
+> <div align="right">— Richard Feynman</div>
+
+<br/>
