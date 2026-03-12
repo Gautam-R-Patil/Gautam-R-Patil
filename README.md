@@ -23,7 +23,8 @@ I am a Computer Science Engineering student and deep-tech developer with a lifel
 Optimizing real-time multimodal data fusion for healthcare AI, scaling dense 3D photogrammetry rendering pipelines, and securing hardware-energy fingerprinting infrastructure for Veltrix.
 
 🔧 **What I'm Currently Building (Startups & Deep Tech)**
-* **Veltrix (Founder):** An AI cybersecurity startup focused on preventing AI model theft by fingerprinting a model's hardware energy signature.
+* **Truscore (Founder):** An Cybersecurity pen testing red team platform, that does standerdised acturial ratings for insurance underwriters. Ensuring actuary saftey for the future of technology.
+* **Veltrix:** An AI cybersecurity startup focused on preventing AI model theft by fingerprinting a model's hardware energy signature.
 * **Synaptek:** Adaptive ICU Early Warning Intelligence. Built for the AWS AI for Bharat Hackathon, this time-series deep learning model predicts patient deterioration 15-20 minutes before a threshold breach.
 * **Watson:** A Neuro-Symbolic Forensic Engine that turns 2D dashcam/CCTV video into precise, physics-grounded 3D accident reconstructions.
 * **Axon:** A drone mapping platform leveraging photogrammetry and autonomous computer vision to generate 3D digital twins for structural anomaly detection.
