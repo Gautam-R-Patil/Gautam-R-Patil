@@ -1,5 +1,5 @@
 <h1 align="left">Hi there! 👋 I'm Gautam Patil</h1>
-<h3 align="left">CS Engineering Student | Deep Tech Innovator | Founder @ Veltrix</h3>
+<h3 align="left">CS Engineering Student | Deep Tech Innovator | Founder @ TRUSCOR (https://truscor.org)</h3>
 
 <br/>
 
