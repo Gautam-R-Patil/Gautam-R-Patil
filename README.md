@@ -22,6 +22,13 @@ I am a Computer Science Engineering student and deep-tech developer with a lifel
 👐 **I’m looking for help with**
 Optimizing real-time multimodal data fusion for healthcare AI, scaling dense 3D photogrammetry rendering pipelines, and securing hardware-energy fingerprinting infrastructure for Veltrix.
 
+**My Best Projects:**
+
+**Neural Forge:** Neural Forge is an end-to-end AI model Fine tuning specialization platform that takes any professional's raw knowledge base — legal contracts, medical records, engineering specs, financial reports — and forges it into a private, domain-expert language model that runs entirely offline on your hardware.
+
+**Viber AI:** A fully autonomous, multi-agent LLM platform that manages the entire software lifecycle, generating complete web applications from simple voice or text prompts.
+
+
 🔧 **What I'm Currently Building (Startups & Deep Tech)**
 * **TRUSCOR (Founder):** An Cybersecurity pen testing red team platform, that does standerdised acturial ratings for insurance underwriters. Ensuring actuary saftey for the future of technology.
 * **Veltrix:** An AI cybersecurity startup focused on preventing AI model theft by fingerprinting a model's hardware energy signature.
