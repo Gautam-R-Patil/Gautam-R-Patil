@@ -35,7 +35,6 @@ Optimizing real-time multimodal data fusion for healthcare AI, scaling dense 3D 
 * **Synaptek:** Adaptive ICU Early Warning Intelligence. Built for the AWS AI for Bharat Hackathon, this time-series deep learning model predicts patient deterioration 15-20 minutes before a threshold breach.
 * **Watson:** A Neuro-Symbolic Forensic Engine that turns 2D dashcam/CCTV video into precise, physics-grounded 3D accident reconstructions.
 * **Axon:** A drone mapping platform leveraging photogrammetry and autonomous computer vision to generate 3D digital twins for structural anomaly detection.
-* **Viber AI:** A fully autonomous, multi-agent LLM platform that manages the entire software lifecycle, generating complete web applications from simple voice or text prompts.
 * **AgriSight AI (Agro X):** An all-in-one ag-tech assistant fusing computer vision, satellite data, and multilingual voice AI to provide holistic crop diagnostics.
 
 🤖 **Hardware Origins (Atal Lab Team)**
