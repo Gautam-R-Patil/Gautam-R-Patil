@@ -74,15 +74,11 @@ Optimizing real-time multimodal data fusion for healthcare AI, scaling dense 3D 
 ## 🏆 Top Contributed Repos
 
 [![Viber AI](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Viber-AI&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/Viber-AI)
-[![Veltrix](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Veltrix&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/Veltrix)
+[![Neural-Forge](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Neural-Forge&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/Neural-Forge)
+[![S.O.V.A---TRUSCOR](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=S.O.V.A---TRUSCOR&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/S.O.V.A---TRUSCOR)
+[![Oracle-Cognitive-OS-Prompt-Engineering](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Oracle-Cognitive-OS-Prompt-Engineering&theme=tokyonight&v=2)](https://github.com/Gautam-R-Patil/Oracle-Cognitive-OS-Prompt-Engineering)
 
 <br/>
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&theme=tokyonight&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-R-Patil&layout=compact&theme=tokyonight&v=2)
 
 ## ✍️ Random Dev Quote
 
