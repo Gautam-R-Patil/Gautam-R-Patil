@@ -6,7 +6,7 @@
 
 [![TRUSCOR](https://img.shields.io/badge/TRUSCOR-Founder_%26_CEO-0B8793?style=for-the-badge)](https://truscor.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gautam_Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-patil-94b6a6275/)
-[![X](https://img.shields.io/badge/X-@_gautamrpatil-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_gautamrpatil)
+[![Email](https://img.shields.io/badge/Email-gautam%40xagilab.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam@xagilab.com)
 
 </div>
 
