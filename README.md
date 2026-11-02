@@ -2,136 +2,119 @@
 
 # Gautam Patil
 
-### Founder-engineer building AI security, agent evaluation, multi-agent systems, and neuro-symbolic products
+### Founder-engineer building AI security, agent evaluation, multi-agent systems and neuro-symbolic products
 
 [![TRUSCOR](https://img.shields.io/badge/TRUSCOR-Founder_%26_CEO-0B8793?style=for-the-badge)](https://truscor.org)
+[![Organization](https://img.shields.io/badge/ORG-github.com%2FTRUSCOR-181717?style=for-the-badge&logo=github)](https://github.com/TRUSCOR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gautam_Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-patil-94b6a6275/)
-[![Email](https://img.shields.io/badge/Email-gautam%40xagilab.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam@xagilab.com)
+[![Email](https://img.shields.io/badge/Email-gautam%40truscor.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam@truscor.org)
 
 </div>
 
+---
+
 ## I build systems, not isolated demos
 
-I am a computer science engineering student and founder of [TRUSCOR](https://truscor.org), working at the intersection of **AI security, adversarial evaluation, interpretable evidence, multi-agent systems, reinforcement learning, and applied deep tech**.
+I am a computer science engineering student and founder of
+[TRUSCOR](https://truscor.org), working at the intersection of **AI security,
+adversarial evaluation, interpretable evidence, multi-agent systems,
+reinforcement learning and applied deep tech**.
 
-My work usually starts with an ambitious system-level question: How do we reproduce an agent failure? How do we separate perception from reasoning? How do we make autonomous software auditable? I turn those questions into architectures, working prototypes, evaluation environments, developer tools, and open-source infrastructure.
+My work usually starts with an ambitious system-level question. How do we
+reproduce an agent failure? How do we separate perception from reasoning? How
+do we make autonomous software auditable? I turn those questions into
+architectures, working prototypes, evaluation environments, developer tools and
+open-source infrastructure.
 
-Right now, my primary focus is **SOVA**: building practical infrastructure to map agent capability reach, discover conditional behavior, preserve signed evidence, replay failures, and support forensic reconstruction of agent-security incidents.
+## TRUSCOR
+
+> **CIBIL scores borrowers and never lends a rupee, which is why every bank trusts it.
+> We are the bureau, not the bank.**
+
+TRUSCOR builds no models, no agents and no applications. It tests what AI
+systems do, records it as signed evidence, and rates how far they can be
+trusted. The organisation lives at **[github.com/TRUSCOR](https://github.com/TRUSCOR)**.
+
+| Layer | What it does | Access |
+|---|---|---|
+| **[SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS)** | Map, test, record, replay and investigate AI agents. The open `.sova` evidence format. | Open source, Apache-2.0 |
+| **[SOVA Engine](https://github.com/TRUSCOR/SOVA-Engine)** | Attacks and stress-tests AI products through the interface layer, into `.sova` evidence | Rating team, licensed firms |
+| **[SOVA Black Box](https://github.com/TRUSCOR/SOVA-Blackbox)** | A 24x7 recorder for AI running in production | Deployments, OEM partners |
+| **[O.W.L](https://github.com/TRUSCOR/O.W.L)** | The measurement instrument: checks what an AI claimed against what really happened | Internal, licensed measurers |
+| **[TAFAAR](https://github.com/TRUSCOR/TAFAAR)** | Grades evidence into the TRUSCOR Rating (300-900) and an Estimated Financial Exposure | TRUSCOR only, never licensed |
+
+### Try it in one minute
+
+No model, API key or network needed:
+
+```bash
+git clone https://github.com/TRUSCOR/SOVA-OSS
+cd SOVA-OSS
+uv sync --locked
+uv run sova demo sleeper
+```
+
+---
 
 ## Crown jewels
 
 | Project | What I built | State |
 |---|---|---|
-| **[SOVA-OSS](https://github.com/Gautam-R-Patil/S.O.V.A---OSS---TRUSCOR)** | A local-first, open-source instrument for recording, packaging, replaying, reproducing, and comparing AI behavior. It includes portable behavior artifacts, signed traces, deterministic oracles, containment controls, capability mapping, and the foundations of an agent-forensics engine. | **Active pre-alpha** - core foundations and a bounded synthetic proof are implemented |
-| **[SOVA Engine](https://github.com/Gautam-R-Patil/S.O.V.A---TRUSCOR)** | TRUSCOR's working AI red-team prototype and investor-demo build. It coordinates multi-agent reconnaissance, attack, evaluation, judging, and evidence workflows across browser, UI, and tool surfaces. | **Working prototype / public showcase** |
-| **[Neural Forge](https://github.com/Gautam-R-Patil/Neural-Forge)** | An end-to-end specialist-model pipeline combining data synthesis, LoRA/QLoRA supervised fine-tuning, GRPO-style alignment experiments, evaluation, and GGUF export. | **Functional prototype and experiments** |
-| **[Viber AI](https://github.com/Gautam-R-Patil/Viber-AI)** | A multi-agent software-building platform that turns text or voice ideas into requirements, code, review workflows, and downloadable web projects through a live IDE-style interface. | **Functional product prototype** |
-| **[ORACLE Cognitive OS](https://github.com/Gautam-R-Patil/Oracle-Cognitive-OS-Prompt-Engineering)** | A versioned system-prompt architecture for cognitive triage, adversarial hypothesis generation, epistemic honesty, and strategic synthesis. | **Public prompt system with documented evolution** |
-| **[RoboVision](https://github.com/Gautam-R-Patil/RoboVision)** | A PPO-based locomotion training pipeline for a Unitree quadruped in Genesis, covering walking, running, yaw control, reward shaping, proprioceptive observations, and sim-to-real considerations. | **Implemented RL training experiment** |
+| **[SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS)** | A local-first, open-source instrument for recording, packaging, replaying, reproducing and comparing AI behaviour. Portable behaviour artifacts, signed traces, deterministic oracles, containment controls, capability mapping and the foundations of an agent-forensics engine. | **Active pre-alpha** |
+| **[Bhai](https://github.com/Gautam-R-Patil/Bhai)** | A proactive personal AI agent in TypeScript and Rust for computer use, deep research and long-running tasks across Telegram, WhatsApp, Slack, Discord and desktop. | **Source-available** |
+| **[SOVA Engine](https://github.com/TRUSCOR/SOVA-Engine)** | The TRUSCOR AI red-team engine. Coordinates multi-agent reconnaissance, attack, evaluation, judging and evidence workflows across browser, UI and tool surfaces. | **Public showcase** |
+| **[Neural Forge](https://github.com/Gautam-R-Patil/Neural-Forge)** | An end-to-end specialist-model pipeline: data synthesis, LoRA/QLoRA supervised fine-tuning, GRPO-style alignment experiments, evaluation and GGUF export. | **Functional prototype** |
+| **[SOVA Research](https://github.com/Gautam-R-Patil/sova-research)** | Papers and preprints on portable, verifiable evidence for AI-agent security findings. | **Preprints published** |
+| **[ORACLE Prompt](https://github.com/Gautam-R-Patil/ORACLE-Prompt)** | A versioned system-prompt architecture for cognitive triage, adversarial hypothesis generation, epistemic honesty and strategic synthesis. | **Public, documented evolution** |
 
 ## Project atlas
 
-The stages below describe what is visible in each repository, so working systems, prototypes, and design specifications are easy to distinguish.
+### AI security, evaluation and forensics
 
-### AI security, evaluation, and digital forensics
-
-| Repository | Builder view | Stage |
+| Repository | What it is | Stage |
 |---|---|---|
-| **[SOVA-OSS](https://github.com/Gautam-R-Patil/S.O.V.A---OSS---TRUSCOR)** | Portable AI-behavior records, signed evidence traces, offline verification, replay, trigger-search foundations, containment, deterministic oracles, and agent forensics | Active pre-alpha |
-| **[SOVA Engine](https://github.com/Gautam-R-Patil/S.O.V.A---TRUSCOR)** | Multi-agent adversarial evaluation engine and working TRUSCOR demonstration prototype | Working prototype |
-| **[NOVA](https://github.com/Gautam-R-Patil/NOVA)** | Synthetic enterprise-finance workspace and intentionally vulnerable AI-security test target for prompt-injection, data-access, and policy-bypass evaluation | Implemented testbed |
-| **[Forensic Hawkeye](https://github.com/Gautam-R-Patil/METAxScaler)** | OpenEnv-compatible agent environment where an AI investigator iterates through collision simulations and checks testimony against physics | Implemented environment |
-| **[Veltrix](https://github.com/Gautam-R-Patil/Veltrix)** | Energy-fingerprint security architecture for detecting model theft, crypto-mining, and unauthorized GPU/CPU workloads | System design and requirements |
-| **[Watson](https://github.com/Gautam-R-Patil/Watson)** | Deterministic neuro-symbolic forensic reconstruction architecture with physics-based ballistics, evidence hashing, replay, and immutable audit trails | System design and requirements |
+| **[SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS)** | Portable AI-behaviour records, signed evidence traces, offline verification, replay, trigger search, containment, deterministic oracles, agent forensics | Active pre-alpha |
+| **[SOVA Research](https://github.com/Gautam-R-Patil/sova-research)** | The research programme behind the `.sova` capsule and `.sova-trace` record | Preprints |
+| **[NOVA](https://github.com/Gautam-R-Patil/NOVA)** | Synthetic enterprise-finance workspace and intentionally vulnerable AI-security test target for prompt-injection, data-access and policy-bypass evaluation | Implemented testbed |
+| **[Hawkeye](https://github.com/Gautam-R-Patil/Hawkeye)** | An OpenEnv-compatible RL environment where agents audit vehicle-crash liability by simulating collisions and checking witness testimony against physics | RL environment |
 
-### Multi-agent systems and AI products
+### Agents, models and developer tools
 
-| Repository | Builder view | Stage |
+| Repository | What it is | Stage |
 |---|---|---|
-| **[Viber AI](https://github.com/Gautam-R-Patil/Viber-AI)** | Manager-led multi-agent web-development platform with voice intake, PRD generation, code creation, review, file exploration, and live editing | Functional prototype |
-| **[NeuroPilot](https://github.com/Gautam-R-Patil/NeuroPilot)** | Cross-platform developer-workflow copilot with a planner → validator → guardrail → executor pipeline and explicit confirmation for risky actions | System design and requirements |
-| **[Vacay](https://github.com/Gautam-R-Patil/Vacay)** | Autonomous travel concierge that derives taste profiles from photos, composes itineraries, and plans agent-driven booking/orchestration | System design and requirements |
-| **[YUGA AI](https://github.com/Gautam-R-Patil/YUGA-AI)** | Full-stack AI education platform with tutoring, assessments, OCR, translation, voice/TTS, learning analytics, spaced repetition, and personalized study flows | Large working codebase |
-| **[Agro-X](https://github.com/Gautam-R-Patil/Agro-X)** | AI agriculture assistant combining crop-image analysis, soil and weather context, recommendations, market guidance, voice access, and SMS-oriented workflows | Product prototype |
+| **[Bhai](https://github.com/Gautam-R-Patil/Bhai)** | Proactive personal AI agent, TypeScript + Rust, computer use and long-running tasks across five messaging surfaces and desktop | Source-available |
+| **[Neural Forge](https://github.com/Gautam-R-Patil/Neural-Forge)** | Specialist-model pipeline: synthesis, LoRA/QLoRA, GRPO experiments, evaluation, GGUF export | Functional prototype |
+| **[Viber AI](https://github.com/Gautam-R-Patil/Viber-AI)** | Multi-agent software-building platform turning text or voice ideas into requirements, code, review workflows and downloadable projects through a live IDE | Product prototype |
+| **[YUGA AI](https://github.com/Gautam-R-Patil/YUGA-AI)** | Full-stack AI education platform: tutoring, assessments, OCR, translation, voice/TTS, learning analytics, spaced repetition | Large working codebase |
+| **[ORACLE Prompt](https://github.com/Gautam-R-Patil/ORACLE-Prompt)** | Versioned system-prompt architecture for triage, adversarial hypothesis generation and epistemic honesty | Public prompt system |
 
-### Model engineering, interpretable AI, and scientific systems
+### Robotics, RL and applied systems
 
-| Repository | Builder view | Stage |
+| Repository | What it is | Stage |
 |---|---|---|
-| **[Neural Forge](https://github.com/Gautam-R-Patil/Neural-Forge)** | End-to-end specialist-model pipeline combining data synthesis, LoRA/QLoRA SFT, GRPO-style alignment experiments, evaluation, and GGUF export | Functional prototype and experiments |
-| **[RoboVision](https://github.com/Gautam-R-Patil/RoboVision)** | Physics-grounded quadruped locomotion with PPO, reward engineering, continuous control, and Genesis simulation | Implemented RL experiment |
-| **[Synaptek](https://github.com/Gautam-R-Patil/Synaptek)** | Adaptive ICU early-warning architecture using multimodal time series, LSTMs, risk scoring, alert-fatigue controls, and explainability | System design and requirements |
-| **[Axon](https://github.com/Gautam-R-Patil/Axon)** | Neuro-symbolic structural inspection architecture that fuses drone RGB/LiDAR perception with deterministic engineering rules and digital twins | System design and requirements |
+| **[Robodog](https://github.com/Gautam-R-Patil/Robodog)** | PPO locomotion for a Unitree quadruped in Genesis: walking, running, yaw control, reward shaping, proprioceptive observations, sim-to-real considerations | RL training experiment |
+| **[Agro-X](https://github.com/Gautam-R-Patil/Agro-X)** | AI agriculture assistant: crop-image analysis, soil and weather context, recommendations, market guidance, voice access, SMS workflows | Product prototype |
 
-### Prompt engineering and reasoning systems
+### System designs
 
-| Repository | Builder view | Stage |
-|---|---|---|
-| **[ORACLE Cognitive OS](https://github.com/Gautam-R-Patil/Oracle-Cognitive-OS-Prompt-Engineering)** | A master system prompt with explicit cognitive modes, anti-sycophancy controls, adversarial comparison, and a documented eight-version evolution trail | Public and usable |
+**[System-Designs](https://github.com/Gautam-R-Patil/System-Designs)** collects six
+architecture specifications, each imported with its original commit history:
+[Veltrix](https://github.com/Gautam-R-Patil/System-Designs/tree/main/Veltrix) (energy-fingerprint security),
+[Watson](https://github.com/Gautam-R-Patil/System-Designs/tree/main/Watson) (forensic reconstruction),
+[NeuroPilot](https://github.com/Gautam-R-Patil/System-Designs/tree/main/NeuroPilot) (developer copilot),
+[Vacay](https://github.com/Gautam-R-Patil/System-Designs/tree/main/Vacay) (travel concierge),
+[Synaptek](https://github.com/Gautam-R-Patil/System-Designs/tree/main/Synaptek) (ICU early warning) and
+[Axon](https://github.com/Gautam-R-Patil/System-Designs/tree/main/Axon) (structural inspection).
 
-### Product interfaces, simulation, and systems foundations
+These are design specifications, not implementations, and they say so.
 
-| Repository | Builder view | Stage |
-|---|---|---|
-| **[TRUSCOR New UI](https://github.com/Gautam-R-Patil/TRUSCOR-new-ui)** | React/TypeScript product experience with motion, cinematic storytelling, audit visualizations, demo surfaces, and waitlist flows | Active interface build |
-| **[TRUSCOR UI](https://github.com/Gautam-R-Patil/TRUSCOR-ui)** | Earlier cinematic TRUSCOR interface exploring actuarial-risk storytelling, animations, particles, and snap-scroll interaction | Working interface prototype |
-| **[Superhot Game](https://github.com/Gautam-R-Patil/Superhot-Game)** | Unity/C# time-based 3D shooter prototype with custom gameplay systems and scene assets | Game prototype |
-| **[Build Your Own Shell](https://github.com/Gautam-R-Patil/OS-project)** | Java implementation work toward a POSIX-style shell, including parsing, built-ins, process execution, and a REPL | Systems-learning build |
-
-## Builder origin
-
-- Built a hardware **text-to-Braille converter** in eighth grade using ASCII and six solenoids; received a ₹10,000 Government of India INSPIRE Award grant.
-- Designed early hardware prototypes including a Mars rover with bionic arms, a firefighter thermal mask, sign-language-to-text gloves, and a homemade hoverboard.
-- Shipped freelance engineering work with **Scaler AI Labs** and **SkyCraft Airplanes**.
-- JEE Advanced AIR **8303** and JEE Main **96.15 percentile**.
-
-## Technical toolbox
-
-### Languages and core engineering
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-### AI, simulation, and data
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Product engineering
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=FFCD34)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=blue)
-
-## Featured repositories
-
-[![SOVA OSS](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=S.O.V.A---OSS---TRUSCOR&theme=tokyonight&v=3)](https://github.com/Gautam-R-Patil/S.O.V.A---OSS---TRUSCOR)
-[![SOVA Engine](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=S.O.V.A---TRUSCOR&theme=tokyonight&v=3)](https://github.com/Gautam-R-Patil/S.O.V.A---TRUSCOR)
-[![Viber AI](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Viber-AI&theme=tokyonight&v=3)](https://github.com/Gautam-R-Patil/Viber-AI)
-[![ORACLE](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Oracle-Cognitive-OS-Prompt-Engineering&theme=tokyonight&v=3)](https://github.com/Gautam-R-Patil/Oracle-Cognitive-OS-Prompt-Engineering)
-[![RoboVision](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=RoboVision&theme=tokyonight&v=3)](https://github.com/Gautam-R-Patil/RoboVision)
-[![Neural Forge](https://github-readme-stats.vercel.app/api/pin/?username=Gautam-R-Patil&repo=Neural-Forge&theme=tokyonight&v=3)](https://github.com/Gautam-R-Patil/Neural-Forge)
+---
 
 ## GitHub at a glance
 
 <div align="center">
 
-![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gautam-R-Patil&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=Gautam-R-Patil&theme=tokyonight&hide_border=true)
 
@@ -141,13 +124,13 @@ The stages below describe what is visible in each repository, so working systems
 
 I am especially interested in collaborations around:
 
-- agentic AI security, red teaming, and behavioral evaluation;
-- reproducible AI evidence, incident reconstruction, and interpretability;
+- agentic AI security, red teaming and behavioural evaluation;
+- reproducible AI evidence, incident reconstruction and interpretability;
 - multi-agent orchestration and developer tools;
 - reinforcement learning environments and neuro-symbolic systems;
-- ambitious 0 → 1 deep-tech products.
+- ambitious 0 to 1 deep-tech products.
 
-> *“What I cannot create, I do not understand.”*<br>
+> *"What I cannot create, I do not understand."*<br>
 > — Richard Feynman
 
 <div align="center">
