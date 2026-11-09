@@ -85,7 +85,7 @@ uv run sova demo sleeper
 | **[Bhai](https://github.com/Gautam-R-Patil/Bhai)** | Proactive personal AI agent, TypeScript + Rust, computer use and long-running tasks across five messaging surfaces and desktop | Source-available |
 | **[Neural Forge](https://github.com/Gautam-R-Patil/Neural-Forge)** | Specialist-model pipeline: synthesis, LoRA/QLoRA, GRPO experiments, evaluation, GGUF export | Functional prototype |
 | **[Viber AI](https://github.com/Gautam-R-Patil/Viber-AI)** | Multi-agent software-building platform turning text or voice ideas into requirements, code, review workflows and downloadable projects through a live IDE | Product prototype |
-| **[YUGA AI](https://github.com/Gautam-R-Patil/YUGA-AI)** | Full-stack AI education platform: tutoring, assessments, OCR, translation, voice/TTS, learning analytics, spaced repetition | Large working codebase |
+| **[Oracle_101](https://github.com/Gautam-R-Patil/Oracle_101)** | Full-stack AI education platform: tutoring, assessments, OCR, translation, voice/TTS, learning analytics, spaced repetition | Large working codebase |
 | **[ORACLE Prompt](https://github.com/Gautam-R-Patil/ORACLE-Prompt)** | Versioned system-prompt architecture for triage, adversarial hypothesis generation and epistemic honesty | Public prompt system |
 
 ### Robotics, RL and applied systems
