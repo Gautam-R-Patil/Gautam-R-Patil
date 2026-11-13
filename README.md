@@ -58,7 +58,7 @@ uv run sova demo sleeper
 
 ## Research
 
-**Latest preprint:** [*.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings*](https://github.com/TRUSCOR/sova-research)
+**Latest preprint:** [*.sova: Portable, Evidence-Bounded Reproduction of AI-Agent Security Findings*](https://github.com/TRUSCOR/research)
 (version 1.1, November 2026, not yet peer reviewed).
 
 I re-ran a widely used AI-agent security benchmark on eight models. It can score
@@ -68,7 +68,7 @@ published in 2024 still worked on GPT-4o in 2026. Every finding ships as a
 
 | Where | What |
 |---|---|
-| **[TRUSCOR/sova-research](https://github.com/TRUSCOR/sova-research)** | Released papers, with data, code, protocols and `.sova` evidence |
+| **[TRUSCOR/research](https://github.com/TRUSCOR/research)** | Released papers, with data, code, protocols and `.sova` evidence |
 | **[research-papers](https://github.com/Gautam-R-Patil/research-papers)** | All my preprints and working drafts, across SOVA, TRUSCOR and other projects |
 | **[SOVA OSS v1](https://github.com/Gautam-R-Patil/SOVA-OSS)** | The original SOVA prototype, started 28 July 2026, preserved and frozen |
 
@@ -82,7 +82,7 @@ published in 2024 still worked on GPT-4o in 2026. Every finding ships as a
 | **[Bhai](https://github.com/Gautam-R-Patil/Bhai)** | A proactive personal AI agent in TypeScript and Rust for computer use, deep research and long-running tasks across Telegram, WhatsApp, Slack, Discord and desktop. | **Source-available** |
 | **[SOVA Engine](https://github.com/TRUSCOR/SOVA-Engine)** | The TRUSCOR AI red-team engine. Coordinates multi-agent reconnaissance, attack, evaluation, judging and evidence workflows across browser, UI and tool surfaces. | **Public showcase** |
 | **[Neural Forge](https://github.com/Gautam-R-Patil/Neural-Forge)** | An end-to-end specialist-model pipeline: data synthesis, LoRA/QLoRA supervised fine-tuning, GRPO-style alignment experiments, evaluation and GGUF export. | **Functional prototype** |
-| **[SOVA Research](https://github.com/TRUSCOR/sova-research)** | Released papers on portable, verifiable evidence for AI-agent security findings, with their data, code, protocols and evidence as `.sova` files. | **Preprint v1.1 released** |
+| **[SOVA Research](https://github.com/TRUSCOR/research)** | Released papers on portable, verifiable evidence for AI-agent security findings, with their data, code, protocols and evidence as `.sova` files. | **Preprint v1.1 released** |
 | **[ORACLE Prompt](https://github.com/Gautam-R-Patil/ORACLE-Prompt)** | A versioned system-prompt architecture for cognitive triage, adversarial hypothesis generation, epistemic honesty and strategic synthesis. | **Public, documented evolution** |
 
 ## Project atlas
@@ -92,7 +92,7 @@ published in 2024 still worked on GPT-4o in 2026. Every finding ships as a
 | Repository | What it is | Stage |
 |---|---|---|
 | **[SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS)** | Portable AI-behaviour records, signed evidence traces, offline verification, replay, trigger search, containment, deterministic oracles, agent forensics | Active pre-alpha |
-| **[SOVA Research](https://github.com/TRUSCOR/sova-research)** | Released papers behind the `.sova` capsule and `.sova-trace` record, with data and `.sova` evidence | Preprint v1.1 |
+| **[SOVA Research](https://github.com/TRUSCOR/research)** | Released papers behind the `.sova` capsule and `.sova-trace` record, with data and `.sova` evidence | Preprint v1.1 |
 | **[Research Papers](https://github.com/Gautam-R-Patil/research-papers)** | All my preprints and working drafts, across SOVA, TRUSCOR and other projects | Preprints and drafts |
 | **[SOVA OSS v1](https://github.com/Gautam-R-Patil/SOVA-OSS)** | The original SOVA prototype, started 28 July 2026, preserved with its history | Frozen |
 | **[NOVA](https://github.com/Gautam-R-Patil/NOVA)** | Synthetic enterprise-finance workspace and intentionally vulnerable AI-security test target for prompt-injection, data-access and policy-bypass evaluation | Implemented testbed |
