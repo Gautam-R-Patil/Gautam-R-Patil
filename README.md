@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gautam Patil
+# Gautam R Patil
 
 ### Founder-engineer building AI security, agent evaluation, multi-agent systems and neuro-symbolic products
 
